@@ -5,7 +5,7 @@ $doc-breakpoint-small: 480px !default;
 
 // colors
 // -------------
-$doc-color-primary: #fe6d05 !default;
+$doc-color-primary: #CC3300 !default;
 $doc-color-lightest: #fff !default;
 $doc-color-lighter: $dc-gray80 !default;
 $doc-color-light: #f3f3f3 !default;
@@ -21,7 +21,7 @@ $doc-color-darkest: #333 !default;
 $doc-navbar-height: 50px !default;
 $doc-navbar-background-color: $doc-color-lightest !default;
 $doc-navbar-border-color: #e1e1e1 !default;
-$doc-navbar-logo-text-color: $doc-color-primary !default;
+$doc-navbar-logo-text-color: $doc-color-darker !default;
 $doc-navbar-width-collapsed: $doc-navbar-height !default;
 
 // sidebar

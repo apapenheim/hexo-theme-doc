@@ -125,7 +125,8 @@
   // just table direct children to don't collide
   // with code highlight markup
   > table {
-    margin: 10px 0;
+    margin: 10px auto;
+    
 
     thead {
       color: #000;
