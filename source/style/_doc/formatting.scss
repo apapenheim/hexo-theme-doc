@@ -91,6 +91,11 @@
     vertical-align: middle;
     margin-bottom: 0.25em;    
   }
+  
+ img.focus-image {
+    margin: auto;
+    border: 1px solid $doc-color-darker;
+ }
 
   blockquote {
     border-left: 2px solid $doc-blockquote-border-color;
