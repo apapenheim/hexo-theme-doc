@@ -93,8 +93,9 @@
   }
   
  img.focus-image {
+    display: block;
     margin: auto;
-    border: 1px solid $doc-color-darker;
+    border: 1px solid $doc-color-mediumlight;
  }
 
   blockquote {
