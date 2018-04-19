@@ -97,6 +97,10 @@
     margin: auto;
     border: 1px solid $doc-color-mediumlight;
  }
+ 
+ img.header {
+    display:block;  
+ }
 
   blockquote {
     border-left: 2px solid $doc-blockquote-border-color;
