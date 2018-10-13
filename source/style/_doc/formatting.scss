@@ -96,8 +96,13 @@
     display: block;
     margin: auto;
     border: 1px solid $doc-color-mediumlight;
+    max-width: 800px;
  }
  
+img.record-thumb {
+    max-width: 200px;       
+ }
+    
  img.header {
     display:block;  
  }
