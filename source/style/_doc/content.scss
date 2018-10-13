@@ -26,6 +26,11 @@
       padding-top: 0.8rem;
     }
   }
+    
+  .dc-card {
+    max-width: 900px;
+    margin: 0 auto;
+  }
 
   @media screen and (max-width: $doc-breakpoint) {
     transform: translateX(0);
