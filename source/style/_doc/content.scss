@@ -28,9 +28,15 @@
   }
     
   .dc-card {
-    max-width: 900px;
+    max-width: 1100px;
     margin: 0 auto;
+    padding: 7.4rem;
+
+    @media screen and (max-width: $doc-breakpoint) {
+      padding: 2.4rem;
+    }
   }
+        
 
   @media screen and (max-width: $doc-breakpoint) {
     transform: translateX(0);

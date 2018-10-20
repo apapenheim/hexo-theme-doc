@@ -100,19 +100,22 @@
   }
     
   img.catflag {
-    max-width: 20px;      
+    max-width: 20px;
+    width: 100%;
   }
     
-    img.flagkit {
+  img.flagkit {
     vertical-align: middle;
     margin-bottom: 0.25em;
     max-width: 23px;
+    width: 100%;
   }
     
   img.flagkit-head {
     vertical-align: middle;
     margin-bottom: 0.25em;
     max-width: 46px;
+    width: 100%;
   }
   
  img.focus-image {
@@ -120,14 +123,17 @@
     margin: auto;
     border: 1px solid $doc-color-mediumlight;
     max-width: 800px;
+    width: 100%;
  }
  
 img.record-thumb {
-    max-width: 200px;       
+    max-width: 200px;
+    width: 100%;
  }
     
  img.header {
-    display:block;  
+    display:block;
+    width: 100%;
  }
 
   blockquote {
